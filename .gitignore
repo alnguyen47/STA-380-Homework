@@ -1,0 +1,13 @@
+# Ignore folders
+corpora
+
+EUROSAT_RGB
+
+ReutersC50
+
+/billboard.csv
+/capmetro_UT.csv
+/greenbuildings.csv
+/groceries.txt
+/social_marketing.csv
+/wine.csv
