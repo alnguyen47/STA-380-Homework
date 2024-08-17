@@ -5,7 +5,6 @@ library(igraph)
 library(arules)
 library(arulesViz)
 
-setwd('Homework')
 groceries <- readLines('groceries.txt')
 
 # Get the list of groceries
